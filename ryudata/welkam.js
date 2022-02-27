@@ -4,8 +4,8 @@
 exports.welkam = () => {
 	return `Intro Dulu Yuk Biar Keren 🤙
 
-📛 Nama : 
-🔞 Umur :
+👤 Nama : 
+📌 Umur :
 🏙️ Askot :
 
 Semoga Kamu Senang Berada Disini
