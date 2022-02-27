@@ -1,8 +1,8 @@
 exports.allmenu = (prefix) => {
-	return`Media Sosial 👾
-Instagram : @Fandyyy._
+	return`Media Sosial 🚀
+Github : @FiraaChan
 
-*👤 OWNER MENU*
+*👩‍🦰 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
 ⚘👾 ${prefix}join [link]
 ⚘👾 ${prefix}leave
